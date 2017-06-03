@@ -1,6 +1,7 @@
 def intro(msg):
     print msg+"\tsucka"
- # comment3
- # comment2
- # comment 1
+ # no more sorrow
+
+def func():
+    print ('new func')
 intro("What up")
