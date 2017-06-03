@@ -1,1 +1,4 @@
-print "Hello world \n Watashiwa Outis desu."
+def intro(msg):
+    print msg+"\tsucka"
+
+intro("What up")
